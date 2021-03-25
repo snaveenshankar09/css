@@ -7,7 +7,7 @@ body{
     background-color: white;
 }
 .top{
-    background-color: #ffc7c7;
+    background-color: #ffcfdf;
     position: relative;
     padding-top: 100px;
     
@@ -34,10 +34,10 @@ h1{
     padding-bottom: 50px;
     margin: auto ;
     padding-top: 50px;
-    background-color:#ffe2e2; 
+    background-color:#fefdca; 
 }
 .bottom{
-    background-color: #f6f6f6;
+    background-color: #e0f9b5;
     margin-bottom: 0px;
     padding: 50px 0 20px;
     color: #11999E;
